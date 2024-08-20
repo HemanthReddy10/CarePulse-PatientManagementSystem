@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [link]
+git clone https://github.com/HemanthReddy10/CarePulse-PatientManagementSystem.git
 cd my-app
 ```
 
