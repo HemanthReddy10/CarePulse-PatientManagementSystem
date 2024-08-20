@@ -90,14 +90,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 ## Commands Used:
-Create: npx create-next-app@latest 
-Run: npm run dev
-Install:
-npm install clsx tailwind-merge
-npm install tailwindcss-animate
-npx shadcn-ui@latest init
-npx shadcn-ui@latest add button
-npm install next-themes
+- Create: npx create-next-app@latest 
+- Run: npm run dev
+- Install:
+- npm install clsx tailwind-merge
+- npm install tailwindcss-animate
+- npx shadcn-ui@latest init
+- npx shadcn-ui@latest add button
+- npm install next-themes
 
 
 
