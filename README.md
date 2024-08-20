@@ -2,11 +2,6 @@
 Building Healthcare platform that streamlines patient registration, appointment scheduling, and medical records
 
 <div align="center">
-  <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -19,14 +14,6 @@ Building Healthcare platform that streamlines patient registration, appointment 
 
 
 </div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-
 ## <a name="introduction">🤖 Introduction</a>
 
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
